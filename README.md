@@ -20,7 +20,7 @@ Tecnologias Utilizadas
 
 Como Executar o Projeto
 
-Para visualizar a página, basta seguir estes passos:
+Para visualizar a página, basta seguir estes passos ou acessar: https://bettograpiuna.github.io/introducaohtml/
 
 1.  Clone o repositório:
     
