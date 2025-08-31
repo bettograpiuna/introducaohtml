@@ -25,6 +25,6 @@ Para visualizar a página, basta seguir estes passos:
 1.  Clone o repositório:
     
     git clone [[https://github.com/seu-usuario/seu-repositorio.git](https://github.com/bettograpiuna/introducaohtml)]
-    ```
-2.  **Abra o arquivo:**
+    
+3.  Abra o arquivo:
     Navegue até a pasta do projeto e abra o arquivo `index.html` diretamente no seu navegador de preferência (Google Chrome, Firefox, etc.).
